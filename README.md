@@ -7,7 +7,7 @@
  - :sweat_drops: 这么多年来我一直痛恨自己没和他一起死在那个雨夜。
  - :drop_of_blood: 现在，到了我们算账的时候了......
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCoolTomato)](https://github.com/CoolCoolTomato)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCoolTomato&hide=css)](https://github.com/CoolCoolTomato)
 
 ------
 
