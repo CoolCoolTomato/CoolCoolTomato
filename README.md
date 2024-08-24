@@ -1,4 +1,6 @@
-## 酷酷番茄
+![header](https://github.com/user-attachments/assets/e1c10d39-5d64-462c-913d-3acc485804e5)
+
+## CoolCoolTomato
 
  - :film_strip: 还记得吗？
  - :cloud_with_lightning_and_rain: 那天晚上下着雨，
@@ -7,7 +9,13 @@
  - :sweat_drops: 这么多年来我一直痛恨自己没和他一起死在那个雨夜。
  - :drop_of_blood: 现在，到了我们算账的时候了......
 
+### Top Langs
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolCoolTomato&count_private=true&show_icons=true&hide=css,html,scss,javascript)](https://github.com/CoolCoolTomato)
+
+### Github Stats
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=CoolCoolTomato&count_private=true&include_all_commits=true&count_private=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/CoolCoolTomato))
 
 ------
 
