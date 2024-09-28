@@ -1,5 +1,3 @@
-![header](https://github.com/user-attachments/assets/e1c10d39-5d64-462c-913d-3acc485804e5)
-
 # Hello, I'm CoolCoolTomato 👋
 
 ## About Me
