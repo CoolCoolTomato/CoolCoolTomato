@@ -6,5 +6,3 @@
 ## 🔋Github Contributions
 ![CoolCoolTomato's GitHub Contributions](https://ghchart.rshah.org/coolcooltomato)
 
-## 🏆Github Stats
-[![CoolCoolTomato's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolcooltomato)](https://github.com/CoolCoolTomato)
